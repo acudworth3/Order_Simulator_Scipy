@@ -1,4 +1,4 @@
-Simulate simple orders via scipy objects
+Simulate simple orders via scipy objects (Work in progress)
 
 invoke with the following:
 
